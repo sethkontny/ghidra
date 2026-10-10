@@ -2,6 +2,8 @@
 ##MODULE IP: Apache License 2.0
 .gitattributes||GHIDRA||||END|
 .gitignore||GHIDRA||||END|
+AGENTS.md||GHIDRA||||END|
+CLAUDE.md||GHIDRA||||END|
 CONTRIBUTING.md||GHIDRA||||END|
 DISCLAIMER.md||GHIDRA||||END|
 DevGuide.md||GHIDRA||||END|
